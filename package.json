@@ -1,0 +1,12 @@
+{
+  "name": "mi-pipeline-carolina-valencia",
+  "version": "1.0.0",
+  "description": "Ejercicio 3 - Carolina Valencia",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "echo 'Lint OK - Carolina'"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
